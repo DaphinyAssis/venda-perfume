@@ -28,7 +28,7 @@ section{
 .card{
     display: flex;
     background-color: #fff;
-    width:95%;
+    width:100%;
     border-radius: 10px;
 }
 
